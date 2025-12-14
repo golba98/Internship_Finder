@@ -1,5 +1,7 @@
 # Contributor Covenant Code of Conduct
 
+This project uses the Contributor Covenant Code of Conduct to define how maintainers and contributors should engage with each other. By participating, you agree to uphold this code.
+
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project a harassment-free experience for everyone.
